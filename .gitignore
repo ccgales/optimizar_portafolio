@@ -1,0 +1,7 @@
+# ----------------------------------------------------------
+# Entornos virtuales (no se versionan; se recrean con requirements.txt)
+# ----------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
